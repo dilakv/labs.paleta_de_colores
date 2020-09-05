@@ -11,7 +11,7 @@ Juguete para generar una paleta de colores cuando falta inspiración.
 
 ## 🔩 Funcionamiento. ##
 1. Presiona el botón [ Colorear ] y genera colores de forma aleatoria.
-2. Si te gusta algún color, seleccionalo y se creará una segunda lista con tus colores seleccionados.
+2. Si te gusta algún color, selecciónalo y se creará una segunda lista con tus colores seleccionados.
 3. Si ya estás listo, presiona el botón exportar y verás la lista de colores que seleccionaste.
 4. _Opc_: Puedes descargar la lista de colores seleccionados.
 
